@@ -16,10 +16,6 @@ ffmpeg -re -i demo_zybridhome.mp4 -c copy -f flv rtmp://localhost/live/ethan
 
 
 
-
-
-
-https://github.com/developer-tw/MediaServer_http-flv/assets/101781411/c9ea8b0a-bb98-4420-8131-6bff3e27fadc
-
+https://github.com/developer-tw/MediaServer_http-flv/assets/101781411/2e89a6ae-85b8-43a7-9688-8f9b852a2471
 
 
